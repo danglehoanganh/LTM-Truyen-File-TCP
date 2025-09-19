@@ -73,9 +73,44 @@ Hệ điều hành hỗ trợ: Windows, Linux, macOS
 </p>
 <p align="center">Hình 4: hình giao diện Server nhận File</p>
 
-## ⚙️ 4. Các bước cài đặt
+## ⚙️ 4. Các bước cài đặt & chạy chương trình
 
-Để sử dụng hệ thống truyền file, trước hết cần cài đặt Java Development Kit (JDK) phiên bản 8 hoặc mới hơn, có thể tải từ trang chính thức của Oracle hoặc OpenJDK. Sau khi cài đặt xong, tải mã nguồn của chương trình bằng cách clone repository hoặc tải file nén rồi giải nén. Khi đã có mã nguồn, mở terminal hoặc một môi trường phát triển như Eclipse, IntelliJ hay NetBeans để biên dịch và chạy server. Tiếp theo, ở một cửa sổ terminal hoặc IDE khác, tiến hành biên dịch và chạy client. Trước khi chạy client, hãy chỉnh sửa đường dẫn đến file cần gửi trong lớp FileSender.java để bảo đảm file được chọn đúng. Trong quá trình này cần đảm bảo rằng server và client cùng nằm trong một mạng hoặc có thể kết nối với nhau qua địa chỉ IP và cổng đã được cấu hình. Khi client khởi chạy, file sẽ được gửi đến server và được lưu lại tại thư mục lưu trữ đã chỉ định.
+Để sử dụng hệ thống truyền file qua **TCP**, hãy thực hiện theo các bước sau:
+
+### 1️⃣ Cài đặt JDK
+- Cài đặt **Java Development Kit (JDK) 8** hoặc mới hơn.  
+- Có thể tải từ:  
+  - [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)  
+  - [OpenJDK](https://openjdk.org/)
+
+### 2️⃣ Tải mã nguồn
+- Clone repository từ GitHub hoặc tải file `.zip` rồi giải nén:
+
+```bash
+git clone https://github.com/username/repository.git
+cd repository
+
+3️⃣ Chạy Server
+
+Mở terminal hoặc IDE (Eclipse/IntelliJ/NetBeans).
+
+Biên dịch và chạy file Server.java:
+javac Server.java
+java Server
+
+5️⃣ Chạy Client
+
+Mở một cửa sổ terminal/IDE khác.
+
+Biên dịch và chạy file Client.java:
+
+6️⃣ Kiểm tra kết nối & truyền file
+
+Đảm bảo Server và Client cùng mạng LAN hoặc có thể kết nối qua IP + Port đã cấu hình.
+
+Khi chạy Client, file sẽ được gửi qua TCP và Server sẽ lưu tại thư mục lưu trữ (received_files/).
+
+```
 
 ## 📞5, Thông tin liên hệ
 
