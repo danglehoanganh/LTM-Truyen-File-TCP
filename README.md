@@ -79,7 +79,8 @@ Cài đặt JDK: Tải và cài đặt JDK 8 hoặc mới hơn từ trang chính
 
 ## 📞5, Thông tin liên hệ
 
-- **👤 Tên:** Đặng Lê Hoàng Anh  
+- **👤 Tên:** Đặng Lê Hoàng Anh
+- **📧 Email:** danglehoanganh0223@gmail.com
 - **🌐 GitHub:** [https://github.com/danglehoanganh/LTM-Truyen-File-TCP)  
 
 
