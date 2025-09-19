@@ -1,6 +1,11 @@
+<div align="center">
+
 # 🎓 Faculty of Information Technology (DaiNam University)
 
 ## 📂 TRUYỀN FILE TCP
+
+</div>
+
 
 <p align="center">
   <img src="aiotlab_logo.png" alt="AIoT Lab" width="150"/>
@@ -39,3 +44,7 @@ Môi trường phát triển: JDK 8 trở lên, IDE IntelliJ IDEA / Eclipse
 Hệ điều hành hỗ trợ: Windows, Linux, macOS
 
 💻3.Hình ảnh các chức năng
+
+* Giao diện Server:
+
+
