@@ -45,33 +45,45 @@ Hệ điều hành hỗ trợ: Windows, Linux, macOS
 
 ## 💻3.Hình ảnh các chức năng
 
+* Giao diện đăng nhập/đăng ký:
+
+   <p align="center">
+  <img src="Screenshot 2025-09-20 104752.png" alt="GitHub Logo" width="800">
+</p>
+<p align="center">Hình 1</p> 
+
+  <p align="center">
+  <img src="Screenshot 2025-09-20 104557.png" alt="GitHub Logo" width="800">
+</p>
+<p align="center">Hình 2</p> 
+
 * Giao diện Server:
 
   <p align="center">
-  <img src="Screenshot 2025-09-19 074630.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-09-20 105224.png" alt="GitHub Logo" width="800">
 </p>
-<p align="center">Hình 1</p>
+<p align="center">Hình 3</p>
 
 * Giao diện Client:
 
     <p align="center">
-  <img src="Screenshot 2025-09-19 074640.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-09-20 105206.png" alt="GitHub Logo" width="800">
 </p>
-<p align="center">Hình 2</p>
+<p align="center">Hình 4</p>
 
 * Giao diện Client gửi file:
 
    <p align="center">
-  <img src="Screenshot 2025-09-19 073812.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-09-20 112017.png" alt="GitHub Logo" width="800">
 </p>
-<p align="center">Hình 3: hình giao diện Client gửi File</p>
+<p align="center">Hình 5: hình giao diện Client gửi File</p>
 
 * Giao diện Server nhận File:
 
     <p align="center">
-  <img src="Screenshot 2025-09-19 075525.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-09-20 112029.png" alt="GitHub Logo" width="800">
 </p>
-<p align="center">Hình 4: hình giao diện Server nhận File</p>
+<p align="center">Hình 6: hình giao diện Server nhận File</p>
 
 ## ⚙️ 4. Các bước cài đặt & chạy chương trình
 
