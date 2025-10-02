@@ -48,7 +48,7 @@ Hệ điều hành hỗ trợ: Windows, Linux, macOS
 * Giao diện đăng nhập/đăng ký:
 
    <p align="center">
-  <img src="Screenshot 2025-09-20 104752.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-10-02 162158.png" alt="GitHub Logo" width="800">
 </p>
 <p align="center">Hình 1</p> 
 
@@ -60,28 +60,28 @@ Hệ điều hành hỗ trợ: Windows, Linux, macOS
 * Giao diện Server:
 
   <p align="center">
-  <img src="Screenshot 2025-09-20 105224.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-10-02 162251.png" alt="GitHub Logo" width="800">
 </p>
 <p align="center">Hình 3</p>
 
 * Giao diện Client:
 
     <p align="center">
-  <img src="Screenshot 2025-10-02 140936.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-10-02 162219.png" alt="GitHub Logo" width="800">
 </p>
 <p align="center">Hình 4</p>
 
 * Giao diện Client gửi file:
 
    <p align="center">
-  <img src="Screenshot 2025-10-02 141225.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-10-02 162333.png" alt="GitHub Logo" width="800">
 </p>
 <p align="center">Hình 5: hình giao diện Client gửi File</p>
 
 * Giao diện Server nhận File:
 
     <p align="center">
-  <img src="Screenshot 2025-10-02 141255.png" alt="GitHub Logo" width="800">
+  <img src="Screenshot 2025-10-02 162351.png" alt="GitHub Logo" width="800">
 </p>
 <p align="center">Hình 6: hình giao diện Server nhận File</p>
 
