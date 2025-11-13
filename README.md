@@ -100,8 +100,10 @@ Hệ điều hành hỗ trợ: Windows, Linux, macOS
 
 ```bash
 git clone https://github.com/username/repository.git
+```
+```bash
 cd repository
-
+```
 3️⃣ Chạy Server
 
 Mở terminal hoặc IDE (Eclipse/IntelliJ/NetBeans).
@@ -121,8 +123,6 @@ Biên dịch và chạy file Client.java:
 Đảm bảo Server và Client cùng mạng LAN hoặc có thể kết nối qua IP + Port đã cấu hình.
 
 Khi chạy Client, file sẽ được gửi qua TCP và Server sẽ lưu tại thư mục lưu trữ (received_files/).
-
-```
 
 ## 📞5, Thông tin liên hệ
 
